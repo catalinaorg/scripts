@@ -1,0 +1,6 @@
+language: generic
+dist: bionic
+sudo: required
+
+script:
+- bash testhello.sh
