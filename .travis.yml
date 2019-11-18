@@ -3,4 +3,4 @@ dist: bionic
 sudo: required
 
 script:
-- bash testhello.sh
+- bash test.sh
